@@ -1,0 +1,892 @@
+[
+ {
+  "name": "212th_airborne_vc",
+  "label": "Airborne VC",
+  "family": "212th"
+ },
+ {
+  "name": "212th_alpha_null_arc",
+  "label": "Alpha Null ARC",
+  "family": "212th"
+ },
+ {
+  "name": "212th_arc",
+  "label": "ARC",
+  "family": "212th"
+ },
+ {
+  "name": "212th_arc_custom",
+  "label": "ARC Custom",
+  "family": "212th"
+ },
+ {
+  "name": "212th_co",
+  "label": "CO",
+  "family": "212th"
+ },
+ {
+  "name": "212th_commander_cody",
+  "label": "Commander Cody",
+  "family": "212th"
+ },
+ {
+  "name": "212th_custom",
+  "label": "Custom",
+  "family": "212th"
+ },
+ {
+  "name": "212th_custom_2",
+  "label": "Custom 2",
+  "family": "212th"
+ },
+ {
+  "name": "212th_custom_3",
+  "label": "Custom 3",
+  "family": "212th"
+ },
+ {
+  "name": "212th_enlisted",
+  "label": "Enlisted",
+  "family": "212th"
+ },
+ {
+  "name": "212th_exo_vc",
+  "label": "Exo VC",
+  "family": "212th"
+ },
+ {
+  "name": "212th_medic",
+  "label": "Medic",
+  "family": "212th"
+ },
+ {
+  "name": "212th_medic_custom",
+  "label": "Medic Custom",
+  "family": "212th"
+ },
+ {
+  "name": "212th_nco",
+  "label": "NCO",
+  "family": "212th"
+ },
+ {
+  "name": "212th_so",
+  "label": "So",
+  "family": "212th"
+ },
+ {
+  "name": "212th_surgeon",
+  "label": "Surgeon",
+  "family": "212th"
+ },
+ {
+  "name": "241st_alpha_null_arc",
+  "label": "Alpha Null ARC",
+  "family": "241st"
+ },
+ {
+  "name": "241st_arc",
+  "label": "ARC",
+  "family": "241st"
+ },
+ {
+  "name": "241st_co",
+  "label": "CO",
+  "family": "241st"
+ },
+ {
+  "name": "241st_custom",
+  "label": "Custom",
+  "family": "241st"
+ },
+ {
+  "name": "241st_custom_2",
+  "label": "Custom 2",
+  "family": "241st"
+ },
+ {
+  "name": "241st_enlisted",
+  "label": "Enlisted",
+  "family": "241st"
+ },
+ {
+  "name": "241st_exo_vc",
+  "label": "Exo VC",
+  "family": "241st"
+ },
+ {
+  "name": "241st_medic",
+  "label": "Medic",
+  "family": "241st"
+ },
+ {
+  "name": "241st_medic_custom",
+  "label": "Medic Custom",
+  "family": "241st"
+ },
+ {
+  "name": "241st_nco",
+  "label": "NCO",
+  "family": "241st"
+ },
+ {
+  "name": "241st_so",
+  "label": "So",
+  "family": "241st"
+ },
+ {
+  "name": "241st_surgeon",
+  "label": "Surgeon",
+  "family": "241st"
+ },
+ {
+  "name": "241st_tukk",
+  "label": "Tukk",
+  "family": "241st"
+ },
+ {
+  "name": "41st_alpha_null_arc",
+  "label": "Alpha Null ARC",
+  "family": "41st"
+ },
+ {
+  "name": "41st_arc",
+  "label": "ARC",
+  "family": "41st"
+ },
+ {
+  "name": "41st_arf_vc",
+  "label": "ARF VC",
+  "family": "41st"
+ },
+ {
+  "name": "41st_co",
+  "label": "CO",
+  "family": "41st"
+ },
+ {
+  "name": "41st_commander_gree",
+  "label": "Commander Gree",
+  "family": "41st"
+ },
+ {
+  "name": "41st_commander_gree_camo",
+  "label": "Commander Gree Camo",
+  "family": "41st"
+ },
+ {
+  "name": "41st_custom",
+  "label": "Custom",
+  "family": "41st"
+ },
+ {
+  "name": "41st_enlisted",
+  "label": "Enlisted",
+  "family": "41st"
+ },
+ {
+  "name": "41st_exo_vc",
+  "label": "Exo VC",
+  "family": "41st"
+ },
+ {
+  "name": "41st_medic",
+  "label": "Medic",
+  "family": "41st"
+ },
+ {
+  "name": "41st_medic_custom",
+  "label": "Medic Custom",
+  "family": "41st"
+ },
+ {
+  "name": "41st_nco",
+  "label": "NCO",
+  "family": "41st"
+ },
+ {
+  "name": "41st_scout",
+  "label": "Scout",
+  "family": "41st"
+ },
+ {
+  "name": "41st_so",
+  "label": "So",
+  "family": "41st"
+ },
+ {
+  "name": "41st_surgeon",
+  "label": "Surgeon",
+  "family": "41st"
+ },
+ {
+  "name": "501st_alpha_null_arc",
+  "label": "Alpha Null ARC",
+  "family": "501st"
+ },
+ {
+  "name": "501st_arc",
+  "label": "ARC",
+  "family": "501st"
+ },
+ {
+  "name": "501st_co",
+  "label": "CO",
+  "family": "501st"
+ },
+ {
+  "name": "501st_custom",
+  "label": "Custom",
+  "family": "501st"
+ },
+ {
+  "name": "501st_custom_2",
+  "label": "Custom 2",
+  "family": "501st"
+ },
+ {
+  "name": "501st_custom_3",
+  "label": "Custom 3",
+  "family": "501st"
+ },
+ {
+  "name": "501st_enlisted",
+  "label": "Enlisted",
+  "family": "501st"
+ },
+ {
+  "name": "501st_exo_vc",
+  "label": "Exo VC",
+  "family": "501st"
+ },
+ {
+  "name": "501st_medic",
+  "label": "Medic",
+  "family": "501st"
+ },
+ {
+  "name": "501st_nco",
+  "label": "NCO",
+  "family": "501st"
+ },
+ {
+  "name": "501st_rex",
+  "label": "Rex",
+  "family": "501st"
+ },
+ {
+  "name": "501st_so",
+  "label": "So",
+  "family": "501st"
+ },
+ {
+  "name": "501st_surgeon",
+  "label": "Surgeon",
+  "family": "501st"
+ },
+ {
+  "name": "501st_vaughn",
+  "label": "Vaughn",
+  "family": "501st"
+ },
+ {
+  "name": "admirals",
+  "label": "Admirals",
+  "family": "Admirals"
+ },
+ {
+  "name": "alicia_custom_general",
+  "label": "Alicia",
+  "family": "Generals"
+ },
+ {
+  "name": "armika_custom_general",
+  "label": "Armika",
+  "family": "Generals"
+ },
+ {
+  "name": "athena_custom_general",
+  "label": "Athena",
+  "family": "Generals"
+ },
+ {
+  "name": "batt_armor",
+  "label": "Armor",
+  "family": "Battalion"
+ },
+ {
+  "name": "batt_armor_custom",
+  "label": "Armor Custom",
+  "family": "Battalion"
+ },
+ {
+  "name": "11_mcc",
+  "label": "11 MCC",
+  "family": "Battalion"
+ },
+ {
+  "name": "bee_custom_general",
+  "label": "Bee",
+  "family": "Generals"
+ },
+ {
+  "name": "berkay_custom_general",
+  "label": "Berkay",
+  "family": "Generals"
+ },
+ {
+  "name": "birdy_custom_general",
+  "label": "Birdy",
+  "family": "Generals"
+ },
+ {
+  "name": "caltos_custom_general",
+  "label": "Caltos",
+  "family": "Generals"
+ },
+ {
+  "name": "ce_alpha_null_arc",
+  "label": "Alpha Null ARC",
+  "family": "CE"
+ },
+ {
+  "name": "ce_arc",
+  "label": "ARC",
+  "family": "CE"
+ },
+ {
+  "name": "ce_arc_custom",
+  "label": "ARC Custom",
+  "family": "CE"
+ },
+ {
+  "name": "ce_cmdr",
+  "label": "Cmdr",
+  "family": "CE"
+ },
+ {
+  "name": "ce_co",
+  "label": "CO",
+  "family": "CE"
+ },
+ {
+  "name": "ce_custom",
+  "label": "Custom",
+  "family": "CE"
+ },
+ {
+  "name": "ce_custom_2",
+  "label": "Custom 2",
+  "family": "CE"
+ },
+ {
+  "name": "ce_enlisted",
+  "label": "Enlisted",
+  "family": "CE"
+ },
+ {
+  "name": "ce_exo_vc",
+  "label": "Exo VC",
+  "family": "CE"
+ },
+ {
+  "name": "ce_medic",
+  "label": "Medic",
+  "family": "CE"
+ },
+ {
+  "name": "ce_medic_custom",
+  "label": "Medic Custom",
+  "family": "CE"
+ },
+ {
+  "name": "ce_nco",
+  "label": "NCO",
+  "family": "CE"
+ },
+ {
+  "name": "ce_so",
+  "label": "So",
+  "family": "CE"
+ },
+ {
+  "name": "ce_surgeon",
+  "label": "Surgeon",
+  "family": "CE"
+ },
+ {
+  "name": "cg_alpha_null_arc",
+  "label": "Alpha Null ARC",
+  "family": "Coruscant Guard"
+ },
+ {
+  "name": "cg_arc",
+  "label": "ARC",
+  "family": "Coruscant Guard"
+ },
+ {
+  "name": "cg_co",
+  "label": "CO",
+  "family": "Coruscant Guard"
+ },
+ {
+  "name": "cg_commander_fox",
+  "label": "Commander Fox",
+  "family": "Coruscant Guard"
+ },
+ {
+  "name": "cg_commander_thorn",
+  "label": "Commander Thorn",
+  "family": "Coruscant Guard"
+ },
+ {
+  "name": "cg_custom",
+  "label": "Custom",
+  "family": "Coruscant Guard"
+ },
+ {
+  "name": "cg_custom_2",
+  "label": "Custom 2",
+  "family": "Coruscant Guard"
+ },
+ {
+  "name": "cg_custom_3",
+  "label": "Custom 3",
+  "family": "Coruscant Guard"
+ },
+ {
+  "name": "cg_custom_4",
+  "label": "Custom 4",
+  "family": "Coruscant Guard"
+ },
+ {
+  "name": "cg_enlisted",
+  "label": "Enlisted",
+  "family": "Coruscant Guard"
+ },
+ {
+  "name": "cg_exo",
+  "label": "Exo",
+  "family": "Coruscant Guard"
+ },
+ {
+  "name": "cg_hound",
+  "label": "Hound",
+  "family": "Coruscant Guard"
+ },
+ {
+  "name": "cg_medic",
+  "label": "Medic",
+  "family": "Coruscant Guard"
+ },
+ {
+  "name": "cg_medic_custom",
+  "label": "Medic Custom",
+  "family": "Coruscant Guard"
+ },
+ {
+  "name": "cg_nco",
+  "label": "NCO",
+  "family": "Coruscant Guard"
+ },
+ {
+  "name": "cg_so",
+  "label": "So",
+  "family": "Coruscant Guard"
+ },
+ {
+  "name": "cg_surgeon",
+  "label": "Surgeon",
+  "family": "Coruscant Guard"
+ },
+ {
+  "name": "cg_thire",
+  "label": "Thire",
+  "family": "Coruscant Guard"
+ },
+ {
+  "name": "clone_cadet",
+  "label": "Clone Cadet",
+  "family": "Cadets"
+ },
+ {
+  "name": "clover_custom_general",
+  "label": "Clover",
+  "family": "Generals"
+ },
+ {
+  "name": "ct_alpha_null_arc",
+  "label": "Alpha Null ARC",
+  "family": "CT"
+ },
+ {
+  "name": "ct_arc",
+  "label": "ARC",
+  "family": "CT"
+ },
+ {
+  "name": "ct_arc_custom",
+  "label": "ARC Custom",
+  "family": "CT"
+ },
+ {
+  "name": "ct_arc_lore",
+  "label": "ARC Lore",
+  "family": "CT"
+ },
+ {
+  "name": "ct_cmdr",
+  "label": "Cmdr",
+  "family": "CT"
+ },
+ {
+  "name": "ct_co",
+  "label": "CO",
+  "family": "CT"
+ },
+ {
+  "name": "ct_custom",
+  "label": "Custom",
+  "family": "CT"
+ },
+ {
+  "name": "ct_custom_2",
+  "label": "Custom 2",
+  "family": "CT"
+ },
+ {
+  "name": "ct_enlisted",
+  "label": "Enlisted",
+  "family": "CT"
+ },
+ {
+  "name": "ct_exo_vc",
+  "label": "Exo VC",
+  "family": "CT"
+ },
+ {
+  "name": "ct_medic",
+  "label": "Medic",
+  "family": "CT"
+ },
+ {
+  "name": "ct_medic_custom",
+  "label": "Medic Custom",
+  "family": "CT"
+ },
+ {
+  "name": "ct_nco",
+  "label": "NCO",
+  "family": "CT"
+ },
+ {
+  "name": "ct_so",
+  "label": "So",
+  "family": "CT"
+ },
+ {
+  "name": "ct_surgeon",
+  "label": "Surgeon",
+  "family": "CT"
+ },
+ {
+  "name": "cummins_custom_general",
+  "label": "Cummins",
+  "family": "Generals"
+ },
+ {
+  "name": "cynic_custom_general",
+  "label": "Cynic",
+  "family": "Generals"
+ },
+ {
+  "name": "ddonkey_custom_general",
+  "label": "Ddonkey",
+  "family": "Generals"
+ },
+ {
+  "name": "dor_custom_general",
+  "label": "Dor",
+  "family": "Generals"
+ },
+ {
+  "name": "duck_custom_general_v2",
+  "label": "Duck",
+  "family": "Generals"
+ },
+ {
+  "name": "eckso_custom_general",
+  "label": "Eckso",
+  "family": "Generals"
+ },
+ {
+  "name": "etdrew_custom_general",
+  "label": "Etdrew",
+  "family": "Generals"
+ },
+ {
+  "name": "ghost_custom_general",
+  "label": "Ghost",
+  "family": "Generals"
+ },
+ {
+  "name": "gm_alpha_null_arc",
+  "label": "Alpha Null ARC",
+  "family": "Galactic Marines"
+ },
+ {
+  "name": "gm_arc",
+  "label": "ARC",
+  "family": "Galactic Marines"
+ },
+ {
+  "name": "gm_co",
+  "label": "CO",
+  "family": "Galactic Marines"
+ },
+ {
+  "name": "gm_commander_bacara",
+  "label": "Commander Bacara",
+  "family": "Galactic Marines"
+ },
+ {
+  "name": "gm_commander_keller",
+  "label": "Commander Keller",
+  "family": "Galactic Marines"
+ },
+ {
+  "name": "gm_custom_a",
+  "label": "Custom A",
+  "family": "Galactic Marines"
+ },
+ {
+  "name": "gm_custom_b",
+  "label": "Custom B",
+  "family": "Galactic Marines"
+ },
+ {
+  "name": "gm_enlisted",
+  "label": "Enlisted",
+  "family": "Galactic Marines"
+ },
+ {
+  "name": "gm_exo_vc",
+  "label": "Exo VC",
+  "family": "Galactic Marines"
+ },
+ {
+  "name": "gm_kellers_unit",
+  "label": "Kellers Unit",
+  "family": "Galactic Marines"
+ },
+ {
+  "name": "gm_medic",
+  "label": "Medic",
+  "family": "Galactic Marines"
+ },
+ {
+  "name": "gm_medic_2",
+  "label": "Medic 2",
+  "family": "Galactic Marines"
+ },
+ {
+  "name": "gm_nco",
+  "label": "NCO",
+  "family": "Galactic Marines"
+ },
+ {
+  "name": "gm_so",
+  "label": "So",
+  "family": "Galactic Marines"
+ },
+ {
+  "name": "gm_surgeon",
+  "label": "Surgeon",
+  "family": "Galactic Marines"
+ },
+ {
+  "name": "gunther_custom_general_v2",
+  "label": "Gunther",
+  "family": "Generals"
+ },
+ {
+  "name": "joey_custom_general_v2",
+  "label": "Joey",
+  "family": "Generals"
+ },
+ {
+  "name": "ki_marv_custom_general",
+  "label": "Ki Marv",
+  "family": "Generals"
+ },
+ {
+  "name": "konek_custom_general",
+  "label": "Konek",
+  "family": "Generals"
+ },
+ {
+  "name": "llama_custom_general",
+  "label": "Llama",
+  "family": "Generals"
+ },
+ {
+  "name": "mcc",
+  "label": "MCC",
+  "family": "MCC"
+ },
+ {
+  "name": "reserve_medic",
+  "label": "Reserve Medic",
+  "family": "MCC"
+ },
+ {
+  "name": "montalli_custom_general",
+  "label": "Montalli",
+  "family": "Generals"
+ },
+ {
+  "name": "murray_custom_general",
+  "label": "Murray",
+  "family": "Generals"
+ },
+ {
+  "name": "naz_custom_general",
+  "label": "Naz",
+  "family": "Generals"
+ },
+ {
+  "name": "pingu_custom_general",
+  "label": "Pingu",
+  "family": "Generals"
+ },
+ {
+  "name": "quantum_custom_general",
+  "label": "Quantum",
+  "family": "Generals"
+ },
+ {
+  "name": "razor_custom_general_v3",
+  "label": "Razor",
+  "family": "Generals"
+ },
+ {
+  "name": "rc_atin",
+  "label": "Atin",
+  "family": "Republic Commandos"
+ },
+ {
+  "name": "rc_boss",
+  "label": "Boss",
+  "family": "Republic Commandos"
+ },
+ {
+  "name": "rc_commando",
+  "label": "Commando",
+  "family": "Republic Commandos"
+ },
+ {
+  "name": "rc_darman",
+  "label": "Darman",
+  "family": "Republic Commandos"
+ },
+ {
+  "name": "rc_fi",
+  "label": "Fi",
+  "family": "Republic Commandos"
+ },
+ {
+  "name": "rc_fixer",
+  "label": "Fixer",
+  "family": "Republic Commandos"
+ },
+ {
+  "name": "rc_niner",
+  "label": "Niner",
+  "family": "Republic Commandos"
+ },
+ {
+  "name": "rc_scorch",
+  "label": "Scorch",
+  "family": "Republic Commandos"
+ },
+ {
+  "name": "rc_sev",
+  "label": "Sev",
+  "family": "Republic Commandos"
+ },
+ {
+  "name": "rc_sim",
+  "label": "Sim",
+  "family": "Republic Commandos"
+ },
+ {
+  "name": "republic_grand_admiral",
+  "label": "Republic Grand Admiral",
+  "family": "Fleet"
+ },
+ {
+  "name": "republic_officers_1",
+  "label": "Republic Officers 1",
+  "family": "Fleet"
+ },
+ {
+  "name": "republic_officers_2",
+  "label": "Republic Officers 2",
+  "family": "Fleet"
+ },
+ {
+  "name": "rex_custom_general",
+  "label": "Rex",
+  "family": "Generals"
+ },
+ {
+  "name": "senate_guard_cpt",
+  "label": "Senate Guard CPT",
+  "family": "Senate Guard"
+ },
+ {
+  "name": "senate_guard_trp",
+  "label": "Senate Guard TRP",
+  "family": "Senate Guard"
+ },
+ {
+  "name": "sim_trooper",
+  "label": "Sim Trooper",
+  "family": "Sim Troopers"
+ },
+ {
+  "name": "skipper_custom_general",
+  "label": "Skipper",
+  "family": "Generals"
+ },
+ {
+  "name": "spades_custom_general",
+  "label": "Spades",
+  "family": "Generals"
+ },
+ {
+  "name": "sturm_custom_general",
+  "label": "Sturm",
+  "family": "Generals"
+ },
+ {
+  "name": "swinny_custom_general",
+  "label": "Swinny",
+  "family": "Generals"
+ },
+ {
+  "name": "tomxlegend_custom_general_v2",
+  "label": "Tomxlegend",
+  "family": "Generals"
+ },
+ {
+  "name": "vulcan_custom_general_v2",
+  "label": "Vulcan",
+  "family": "Generals"
+ },
+ {
+  "name": "vyper_custom_general",
+  "label": "Vyper",
+  "family": "Generals"
+ }
+]
