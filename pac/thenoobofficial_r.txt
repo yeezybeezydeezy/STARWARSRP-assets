@@ -1,0 +1,47 @@
+[1] = {
+	["self"] = {
+		["ClassName"] = "group",
+		["Name"] = "TheNoobOfficial_R",
+		["UniqueID"] = "27e3a419d9fc75459af13572e5acd5822e22bf2a",
+		["OwnerName"] = "self",
+	},
+	["children"] = {
+		[1] = {
+			["self"] = {
+				["ClassName"] = "event",
+				["Name"] = "keeps it applied after you respawn",
+				["UniqueID"] = "b09190b2b5e020740fbe27895688bcdeb8298854",
+				["Event"] = "owner_health",
+				["Operator"] = "equal or below",
+				["Arguments"] = "0",
+				["Invert"] = false,
+				["AffectChildrenOnly"] = true,
+			},
+			["children"] = {
+				[1] = {
+					["self"] = {
+						["ClassName"] = "proxy",
+						["Name"] = "re-applies it every 30 s",
+						["UniqueID"] = "1ad333ce70dc57e0302406527d0d970731c4cee1",
+						["VariableName"] = "Hide",
+						["AffectChildren"] = true,
+						["Expression"] = "(timeex() < 1 or time() % 30 < 0.15) and 1 or 0",
+					},
+					["children"] = {
+						[1] = {
+							["self"] = {
+								["ClassName"] = "entity",
+								["Name"] = "TheNoobOfficial_R",
+								["UniqueID"] = "310a50681c3e6b188c39dead749a6eebd4bc0dde",
+								["Hide"] = true,
+								["Model"] = "https://raw.githubusercontent.com/yeezybeezydeezy/STARWARSRP-assets/108c38cd0e978d7a28df0876b3758954b3d1a486/pac/thenoobofficial_r.zip",
+							},
+							["children"] = {
+							},
+						},
+					},
+				},
+			},
+		},
+	},
+},
