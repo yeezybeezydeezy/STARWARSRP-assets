@@ -1,0 +1,7 @@
+{
+	"title": "TheNoobOfficial_R",
+	"description": "[url=https://github.com/Physiceye/RoPorter/releases][h2]Made with RoPorter[/h2][/url]",
+	"type": "model",
+	"tags": ["fun"],
+	"ignore": ["src/*", "workshop_icon.jpg", "workshop_preview.jpg"]
+}
